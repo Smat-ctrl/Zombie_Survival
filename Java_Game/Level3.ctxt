@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Level3
+comment1.params=upgrade
+comment1.target=Level3(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawningZombies()
+comment4.params=
+comment4.target=void\ addPowerUp()
+comment5.params=
+comment5.target=void\ KeyShortcut()
+comment6.params=points
+comment6.target=void\ addPoints(int)
+numComments=7
